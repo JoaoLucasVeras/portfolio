@@ -87,11 +87,10 @@ export const About = () => {
                             <li>
                                 <strong className="text-gray-200">
                                      Master in Artificial Intelligence
-                                     <ul className="list-inside pl-4">
-                                        <li>San Jose State University [2021-2025]</li>
-                                     </ul>
                                 </strong>
-                                <ul className="list-inside pl-4">[2025-2027]</ul>
+                                <ul className="list-inside pl-4">
+                                    <li>San Jose State University [2025-2027]</li>
+                                </ul>
                             </li>
                             <li>
                                 <strong className="text-gray-200">
