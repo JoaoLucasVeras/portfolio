@@ -86,7 +86,10 @@ export const About = () => {
                         <ul className="list-disc list-inside text-gray-400 space-y-2">
                             <li>
                                 <strong className="text-gray-200">
-                                    Master in Computer Science
+                                     Master in Artificial Intelligence
+                                     <ul className="list-inside pl-4">
+                                        <li>San Jose State University [2021-2025]</li>
+                                     </ul>
                                 </strong>
                                 <ul className="list-inside pl-4">[2025-2027]</ul>
                             </li>
